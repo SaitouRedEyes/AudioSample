@@ -1,0 +1,4 @@
+AudioSample.MainActivity, AudioSample;md541fe9f0777da919337c1a4471a907f36.MainActivity
+AudioSample.MainActivity, AudioSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md541fe9f0777da919337c1a4471a907f36.MainActivity
+AudioSample.MainActivity;md541fe9f0777da919337c1a4471a907f36.MainActivity
+audiosample.MainActivity;md541fe9f0777da919337c1a4471a907f36.MainActivity
